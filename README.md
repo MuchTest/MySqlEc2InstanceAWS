@@ -1,7 +1,9 @@
 # MySQL on Ec2 Instance AWS
 
 
-Brief example of deploying MySQL service and mysql-shell on EC2 AWS (Ubuntu 20.04 OS) with Terraform and Ansible:
+<i> Brief example of deploying MySQL service and mysql-shell on EC2 AWS (Ubuntu 20.04 OS) with Terraform and Ansible</i>
+
+After cloning repository, and changing the variables accordingly, perform:
 
 ```
 terraform init
