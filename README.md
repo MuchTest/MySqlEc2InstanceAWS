@@ -3,6 +3,8 @@
 
 <i> Brief example of deploying MySQL service and mysql-shell on EC2 AWS (Ubuntu 20.04 OS) with Terraform and Ansible</i>
 
+<i> You will need to install and configure "ufw"  tool for your firewall settings on the EC2 instance, if you want these services to be accessed remotely </i>
+
 After cloning repository, and changing the variables accordingly, perform:
 
 ```
